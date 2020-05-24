@@ -4,3 +4,6 @@
 [submodule "AnalogClockOLED.X/OLED"]
 	path = AnalogClockOLED.X/OLED
 	url = https://github.com/xpress-embedo/OLED.git
+[submodule "AnalogClockOLED.X/AnalogClockOLED.X/DS1307"]
+	path = AnalogClockOLED.X/AnalogClockOLED.X/DS1307
+	url = https://github.com/xpress-embedo/DS1307.git
