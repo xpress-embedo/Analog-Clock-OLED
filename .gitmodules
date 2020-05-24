@@ -1,0 +1,6 @@
+[submodule "AnalogClockOLED.X/I2C"]
+	path = AnalogClockOLED.X/I2C
+	url = https://github.com/xpress-embedo/I2C.git
+[submodule "AnalogClockOLED.X/OLED"]
+	path = AnalogClockOLED.X/OLED
+	url = https://github.com/xpress-embedo/OLED.git

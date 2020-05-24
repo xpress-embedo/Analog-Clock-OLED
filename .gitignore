@@ -1,0 +1,9 @@
+# MPLABX Specific Ignore File Updates
+/AnalogClockOLED.X/build/
+/AnalogClockOLED.X/dist/
+/AnalogClockOLED.X/nbproject/
+
+# Simulation
+*.pdsbak
+*.workspace
+
