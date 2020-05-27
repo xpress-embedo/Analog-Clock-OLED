@@ -179,6 +179,12 @@ void display_clock_face( void )
   }
 }
 
+/**
+ * @brief Display the time
+ * @param hour hour values in decimal
+ * @param minute minute values in decimal
+ * @param second second values in decimal
+ */
 void display_time( uint8_t hour, uint8_t minute, uint8_t second)
 {
   float angle = 0.0;
