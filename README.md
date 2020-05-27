@@ -15,3 +15,5 @@
   * Data from RTC is read and converted to decimal format from BCD format, and this is data is faced to the ```display_time``` function.
   * Executing this function per second will have an animation effect of moving the second hand of the clock.
   * In the project we have called this per 500ms, the reason for this is the digital clock as we wanted to display the colon blinking, which is done half a second.
+
+[*Click here*](https://embeddedlaboratory.blogspot.com/2020/05/analog-clock-using-oled-and-pic.html) to view the blog.
