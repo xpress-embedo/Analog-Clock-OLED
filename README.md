@@ -1,3 +1,4 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/embeddedlab)
 ## Analog Clock Based on OLED SSD1306 and PIC18F4550 Micro-controller
 
 ![alt text](SIM/Digital_and_Analog_Clock.gif "Working Simulation")
